@@ -1,10 +1,10 @@
-# node-boilerplate
+# <NODE_BOILERPLATE>
 > Node Boilerplate Repo
 
-[![NPM](https://nodei.co/npm/node-boilerplate.png)](https://nodei.co/npm/node-boilerplate/)
+[![NPM](https://nodei.co/npm/<NODE_BOILERPLATE>.png)](https://nodei.co/npm/<NODE_BOILERPLATE>/)
 
-[![Build Status](https://travis-ci.org/pmbenjamin/node-boilerplate.svg?branch=master)](https://travis-ci.org/pmbenjamin/node-boilerplate)
-[![Known Vulnerabilities](https://snyk.io/test/npm/node-boilerplate/badge.svg?style=flat-square)](https://snyk.io/test/npm/node-boilerplate)
+[![Build Status](https://travis-ci.org/pmbenjamin/<NODE_BOILERPLATE>.svg?branch=master)](https://travis-ci.org/pmbenjamin/<NODE_BOILERPLATE>)
+[![Known Vulnerabilities](https://snyk.io/test/npm/<NODE_BOILERPLATE>/badge.svg?style=flat-square)](https://snyk.io/test/npm/<NODE_BOILERPLATE>)
 
 Node Boilerplate Repo
 
