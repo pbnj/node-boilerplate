@@ -1,31 +1,30 @@
-# <PROJECT>
-> <TAGLINE>
+# node-boilerplate
+> Node Boilerplate Repo
 
-[![NPM](https://nodei.co/npm/<PROJECT>.png)](https://nodei.co/npm/<PROJECT>/)
+[![NPM](https://nodei.co/npm/node-boilerplate.png)](https://nodei.co/npm/node-boilerplate/)
 
-[![Build Status](https://travis-ci.org/pmbenjamin/<PROJECT>.svg?branch=master)](https://travis-ci.org/pmbenjamin/<PROJECT>)
-[![Known Vulnerabilities](https://snyk.io/test/npm/<PROJECT>/badge.svg?style=flat-square)](https://snyk.io/test/npm/<PROJECT>)
+[![Build Status](https://travis-ci.org/pmbenjamin/node-boilerplate.svg?branch=master)](https://travis-ci.org/pmbenjamin/node-boilerplate)
+[![Known Vulnerabilities](https://snyk.io/test/npm/node-boilerplate/badge.svg?style=flat-square)](https://snyk.io/test/npm/node-boilerplate)
 
-<SUMMARY>
+Node Boilerplate Repo
 
-<!-- ![](screenshot.png) -->
-
+<!-- ![alt](screenshot.png) -->
 
 ## Install
 
-```sh
-
+```
+git clone git@github.com:petermbenjamin/node-boilerplate.git
 ```
 
 ## Usage
 
-```js
-
+```
+git checkout-index -f -a --prefix=/path/to/new/project/
 ```
 
 ## API
 
-
+Document API here
 
 ## License
 
