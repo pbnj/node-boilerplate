@@ -1,0 +1,36 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Node Boilerplate Repo",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "security": "snyk auth $SNYK_TOKEN && snyk test",
+    "test": "npm run security && npm run lint",
+    "prepublish": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/petermbenjamin/node-boilerplate.git"
+  },
+  "keywords": [
+    "node",
+    "boilerplate",
+    "github",
+    "repo"
+  ],
+  "author": "Peter Benjamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petermbenjamin/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/petermbenjamin/node-boilerplate#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.16.1",
+    "eslint-config-airbnb-base": "^11.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "mocha": "^3.2.0",
+    "snyk": "^1.25.1"
+  }
+}
