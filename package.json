@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/petermbenjamin/node-boilerplate#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "eslint": "^3.16.1",
-    "eslint-config-airbnb-base": "^11.1.0",
+    "chai": "^4.1.2",
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.2.0",
-    "mocha": "^3.2.0",
+    "mocha": "^4.0.1",
     "snyk": "^1.25.1"
   }
 }
