@@ -1,4 +1,6 @@
 # <NODE_BOILERPLATE>
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/node-boilerplate.svg)](https://greenkeeper.io/)
 > Node Boilerplate Repo
 
 [![NPM](https://nodei.co/npm/<NODE_BOILERPLATE>.png)](https://nodei.co/npm/<NODE_BOILERPLATE>/)
